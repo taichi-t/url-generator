@@ -1,6 +1,7 @@
 .gitignore
-package-lock.lock
+package-lock.json
 node_modules
 index.ts
 tsconfig.json
 example
+__test__

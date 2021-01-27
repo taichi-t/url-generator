@@ -2,7 +2,7 @@
   "name": "@taichi-t/url-generator",
   "version": "1.0.1",
   "description": "generate urls with params",
-  "main": "index.js",
+  "main": "index.ts",
   "types": "lib/index.d.ts",
   "keywords": [
     "typescipt",

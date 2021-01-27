@@ -1,7 +1,7 @@
 const isNumber = (value: number | string): value is number =>
   typeof value === 'number';
 
-const createRequestUrl = (
+const generateUrl = (
   baseUrl: string,
   params: { [key: string]: string | number }
 ): string => {
@@ -17,4 +17,4 @@ const createRequestUrl = (
   return url.toString();
 };
 
-export default createRequestUrl;
+export default generateUrl;

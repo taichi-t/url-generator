@@ -1,5 +1,5 @@
 {
-  "name": "url-generater",
+  "name": "@taichi-t/url-generator",
   "version": "1.0.0",
   "description": "generate urls with params",
   "main": "index.js",
@@ -7,12 +7,12 @@
   "keywords": [
     "typescipt",
     "url",
-    "url-generater",
+    "url-generator",
     "params"
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/taichi-t/url-generator"
   },
   "dependencies": {},
   "devDependencies": {

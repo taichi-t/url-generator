@@ -17,6 +17,4 @@ const createRequestUrl = (
   return url.toString();
 };
 
-console.log(createRequestUrl('http://www.example.com', { foo: 1, hoo: '2' }));
-
 export default createRequestUrl;

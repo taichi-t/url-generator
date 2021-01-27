@@ -1,6 +1,6 @@
 {
   "name": "@taichi-t/url-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "generate urls with params",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,6 +9,9 @@
     "url",
     "url-generator",
     "params"
+  ],
+  "files": [
+    "lib"
   ],
   "repository": {
     "type": "git",

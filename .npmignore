@@ -4,4 +4,4 @@ node_modules
 index.ts
 tsconfig.json
 example
-__test__
+__tests__
